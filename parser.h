@@ -14,7 +14,7 @@ namespace utility
         std::vector<std::string> complete_string;
         std::string buffer_string;
         std::ifstream file;
-        file.open("pirel.txt");
+        file.open(FileName);
         while(std::getline(file, buffer_string))
         {
             complete_string.push_back(buffer_string);
