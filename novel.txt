@@ -1,0 +1,5 @@
+[begin] 30 true
+Hello
+Its been a while
+Why dont you come inside ?
+[end]
